@@ -36,6 +36,3 @@ The portal includes form fields for entering employee details and a dynamic tabl
 * Real-time updates with clean separation of concerns
 * Secure data flow with fine-grained IAM roles
 
----
-
-Let me know if you’d like to add a **live demo link**, **setup instructions**, or **screenshots** section!
